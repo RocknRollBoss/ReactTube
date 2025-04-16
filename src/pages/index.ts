@@ -1,0 +1,6 @@
+export { Home } from "./home"
+export { Channel } from "./channel"
+export { Search } from "./search"
+export { FullVideo } from "./full-video"
+export { Liked } from "./liked"
+export { Register } from "./register"
