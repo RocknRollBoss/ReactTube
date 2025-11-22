@@ -101,14 +101,6 @@ Folder Description
 - pages – Route pages
 - routes – Routing configuration
 
-## Screenshots (placeholder)
-
-```
-public/screenshots/
-```
-
-
-```
 
 ## Running the Project
 
